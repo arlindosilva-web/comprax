@@ -30,6 +30,8 @@ O **CompraX** é um ecossistema mobile projetado para otimizar e coordenar as co
 - **APIs Externas:** Google Maps Platform (Places API)
 - **Segurança:** Gestão de ambiente com Variáveis de Ambiente (.env)
 
+## Como Rodar
+
 ---
 
 ## 📸 Demonstração
