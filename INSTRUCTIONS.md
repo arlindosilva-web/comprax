@@ -64,7 +64,7 @@ Para a aba **Explorar** funcionar:
 ### 📥 Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/comprax.git
+git clone https://github.com/arlindosilva-web/comprax.git
 cd comprax
 ```
 
