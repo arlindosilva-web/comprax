@@ -32,7 +32,7 @@ O **CompraX** é um ecossistema mobile projetado para otimizar e coordenar as co
 
 ## Como Rodar
 
----
+[---](https://github.com/arlindosilva-web/comprax/blob/master/INSTRUCTIONS.md)
 
 ## 📸 Demonstração
 
